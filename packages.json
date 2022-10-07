@@ -1,0 +1,19 @@
+{
+    "minimumVersion": 1,
+    "packages": [
+        {
+            "name": "A Era do Futuro 1 TotalCraft",
+            "title": "A Era do Futuro 1 TotalCraft",
+            "version": "20100223",
+            "location": "aedf1.json",
+            "priority": 1
+        },
+        {
+            "name": "A Era do Futuro V3 TotalCraft",
+            "title": "A Era do Futuro V3 TotalCraft",
+            "version": "20100223",
+            "location": "aedf3.json",
+            "priority": 1
+        }
+    ]
+}
